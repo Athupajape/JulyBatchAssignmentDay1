@@ -11,7 +11,7 @@ public class ConstructorAssignment {
 	//One Parameterized Constructor
 	public ConstructorAssignment(int a) {
 		this(66,77);
-		System.out.println("One Parameterized constructor");
+		System.out.println("One Parameterized Constructor");
 	}
 	
 	//Two Parameterized Constructor
@@ -23,7 +23,7 @@ public class ConstructorAssignment {
 	//Three Parameterized Constructor
 	public ConstructorAssignment(int a,int b,int c) {
 		
-		System.out.println("Three parameterized");
+		System.out.println("Three parameterized Constructor");
 	}
 	
 	public static void main(String[] args) {
