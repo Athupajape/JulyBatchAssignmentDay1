@@ -8,24 +8,24 @@ public class MethodAssignment {
 		System.out.println("default method");
 	}
 	
-	//One Parameter Method
+	//One Parameterized Method
 	public void Method1(int a) {
 		this.Defaultmethod1();
 		System.out.println("one parameterized method");
 	}
 	
-	//Two Parameter Method
+	//Two Parameterized Method
 	public void Method2(int b,int c) {
 		this.Method1(77);
 		System.out.println("two parameterized method");
 	}
 	
-	//Three Parameter Method
+	//Three Parameterized Method
 	public void Method3(int p,int q,int r) {	
 		System.out.println("three parameterized method");
 	}
 
-	//Four Parameter Method
+	//Four Parameterized Method
 	public void Method4(int m,int n,int z, int y) {
 		this.Method2(55,66);
 		System.out.println("four parameterized method");
